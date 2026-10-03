@@ -23,7 +23,7 @@ Já trabalhei com ferramentas como Bootstrap, Tailwind CSS, Next.js e React, des
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css,react,nextjs,tailwind,postgres,git,github,vscode&theme=dark&perline=13" width="640" alt="Minha stack" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nextjs,tailwind,postgres,git,github,vscode&theme=dark&perline=13" width="640" alt="Minha stack" />
 
 </div>
 
