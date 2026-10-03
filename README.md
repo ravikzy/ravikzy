@@ -47,7 +47,12 @@ Já trabalhei com ferramentas como Bootstrap, Tailwind CSS, Next.js e React, des
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/cauê-r-3384993b0"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:josekeniamarcos10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /></a>
+<a href="mailto:dev.ravikzy@gmail.com@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /></a>
 &nbsp;&nbsp;
+<a href="https://www.youtube.com/@Ravikzy"><img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="48" alt="Youtube" /></a>
+
+&nbsp;&nbsp;
+
+
 
 </div>
