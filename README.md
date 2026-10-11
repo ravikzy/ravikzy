@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8B949E&center=true&vCenter=true&width=620&lines=Cau%C3%AA+Ravik;Dev+full-stack+em+constru%C3%A7%C3%A3o" alt="Cauê" />
 
@@ -23,7 +23,7 @@ Já trabalhei com ferramentas como Bootstrap, Tailwind CSS, Next.js e React, des
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nextjs,tailwind,postgres,git,github,vscode&theme=dark&perline=13" width="640" alt="Minha stack" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nextjs,tailwind,postgres,spring,git,github,vscode&theme=dark&perline=13" width="640" alt="Minha stack" />
 
 </div>
 
